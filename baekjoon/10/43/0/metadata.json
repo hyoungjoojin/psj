@@ -1,0 +1,16 @@
+{
+  "platform": "Baekjoon Online Judge",
+  "id": "10430",
+  "url": "https://www.acmicpc.net/problem/10430",
+  "title": "나머지",
+  "difficulty": "B5",
+  "tags": [
+    "implementation"
+  ],
+  "solution": [
+    {
+      "filename": "1.cpp",
+      "language": "c++17"
+    }
+  ]
+}
