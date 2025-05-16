@@ -1,0 +1,17 @@
+{
+  "platform": "Baekjoon Online Judge",
+  "id": "1037",
+  "url": "https://www.acmicpc.net/problem/1037",
+  "title": "약수",
+  "difficulty": "B1",
+  "tags": [
+    "math",
+    "number theory"
+  ],
+  "solution": [
+    {
+      "filename": "1.cpp",
+      "language": "c++17"
+    }
+  ]
+}
