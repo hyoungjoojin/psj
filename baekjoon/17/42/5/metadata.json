@@ -1,0 +1,19 @@
+{
+  "platform": "Baekjoon Online Judge",
+  "id": "17425",
+  "url": "https://www.acmicpc.net/problem/17425",
+  "title": "약수의 합",
+  "difficulty": "G4",
+  "tags": [
+    "math",
+    "number theory",
+    "dynamic programming",
+    "prefix sum"
+  ],
+  "solution": [
+    {
+      "filename": "1.cpp",
+      "language": "c++17"
+    }
+  ]
+}
