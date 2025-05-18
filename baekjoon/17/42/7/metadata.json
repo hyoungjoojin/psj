@@ -1,0 +1,17 @@
+{
+  "platform": "Baekjoon Online Judge",
+  "id": "17427",
+  "url": "https://www.acmicpc.net/problem/17427",
+  "title": "약수의 합 2",
+  "difficulty": "S2",
+  "tags": [
+    "math",
+    "number theory"
+  ],
+  "solution": [
+    {
+      "filename": "1.cpp",
+      "language": "c++17"
+    }
+  ]
+}
