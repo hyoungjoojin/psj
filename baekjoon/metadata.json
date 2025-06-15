@@ -35,6 +35,13 @@
           "tags": ["sorting", "two pointers"]
         }
       ]
+    },
+    {
+      "id": "10807",
+      "title": "개수 세기",
+      "level": "Bronze 5",
+      "tags": ["array"],
+      "solution": [{ "filename": "a.cpp", "language": "c++17" }]
     }
   ]
 }
