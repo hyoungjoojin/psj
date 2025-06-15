@@ -20,6 +20,21 @@
       "level": "Silver 5",
       "tags": ["array"],
       "solution": [{ "filename": "a.cpp", "language": "c++17" }]
+    },
+    {
+      "id": "3273",
+      "title": "두 수의 합",
+      "level": "Silver 3",
+      "tags": ["array", "sorting", "two pointers"],
+      "problem": "Given an array $A$ and a value $t$, find the number of index pairs $(i, j)$ where $i\lt j$ and $A_i + A_j = t$.",
+      "solution": [
+        {
+          "filename": "a.cpp",
+          "language": "c++17",
+          "algorithm": "Use two pointers on the sorted array. Decrement the right index if the sum is greater than the target, else increment the left index.",
+          "tags": ["sorting", "two pointers"]
+        }
+      ]
     }
   ]
 }
