@@ -63,6 +63,21 @@
       "level": "Bronze 2",
       "tags": ["array", "string"],
       "solution": [{ "filename": "a.cpp", "language": "c++17" }]
+    },
+    {
+      "id": "1406",
+      "title": "에디터",
+      "level": "Silver 2",
+      "tags": ["stack", "deque", "linked list"],
+      "problem": "Given an initial string $S$, find the modified output string $S'$ after applying $N$ commands on a cursor that either moves left or right, appends a character to the left, or deletes a character on the left.",
+      "solution": [
+        {
+          "filename": "a.cpp",
+          "language": "c++17",
+          "algorithm": "Have two deques, the cursor's location is between the left deque's back and the right deque's front.",
+          "tags": ["deque"]
+        }
+      ]
     }
   ]
 }
