@@ -78,6 +78,16 @@
           "tags": ["deque"]
         }
       ]
+    },
+    {
+      "id": "5397",
+      "title": "키로거",
+      "level": "Silver 2",
+      "tags": ["stack", "deque", "linked list"],
+      "related": ["1406"],
+      "solution": [
+        { "filename": "a.cpp", "language": "c++17", "tags": ["deque"] }
+      ]
     }
   ]
 }
