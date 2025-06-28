@@ -88,13 +88,28 @@
       "solution": [
         { "filename": "a.cpp", "language": "c++17", "tags": ["deque"] }
       ]
-    }, {
+    },
+    {
       "id": "1158",
       "title": "요세푸스 문제",
-      "level": "Silver 4"
+      "level": "Silver 4",
       "tags": ["queue", "brute force"],
       "problem": "Given $N$ and $K$, find $J(N, K)$ where $J$ denotes the sequence in which people are eliminated in the Josephus problem.",
-      "solution": [{ "filename": "a.cpp", "language": "c++17","algorithm": "Manually push and pop elements from a queue, simulating the Josephus problem.", "tags": ["queue", "brute force"] }]
+      "solution": [
+        {
+          "filename": "a.cpp",
+          "language": "c++17",
+          "algorithm": "Manually push and pop elements from a queue, simulating the Josephus problem.",
+          "tags": ["queue", "brute force"]
+        }
+      ]
+    },
+    {
+      "id": "10828",
+      "title": "스택",
+      "level": "Silver 4",
+      "tags": ["stack"],
+      "solution": [{ "filename": "a.cpp", "language": "c++17" }]
     }
   ]
 }
