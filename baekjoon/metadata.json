@@ -110,6 +110,13 @@
       "level": "Silver 4",
       "tags": ["stack"],
       "solution": [{ "filename": "a.cpp", "language": "c++17" }]
+    },
+    {
+      "id": "10773",
+      "title": "제로",
+      "level": "Silver 4",
+      "tags": ["stack"],
+      "solution": [{ "filename": "a.cpp", "language": "c++17" }]
     }
   ]
 }
