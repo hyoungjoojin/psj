@@ -117,6 +117,13 @@
       "level": "Silver 4",
       "tags": ["stack"],
       "solution": [{ "filename": "a.cpp", "language": "c++17" }]
+    },
+    {
+      "id": "1874",
+      "title": "스택 수열",
+      "level": "Silver 2",
+      "tags": ["stack"],
+      "solution": [{ "filename": "a.cpp", "language": "c++17" }]
     }
   ]
 }
