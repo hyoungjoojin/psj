@@ -168,6 +168,13 @@
       "level": "Silver 4",
       "tags": ["queue"],
       "solution": [{ "filename": "a.cpp", "language": "c++17" }]
+    },
+    {
+      "id": "2164",
+      "title": "카드2",
+      "level": "Silver 4",
+      "tags": ["queue"],
+      "solution": [{ "filename": "a.cpp", "language": "c++17" }]
     }
   ]
 }
