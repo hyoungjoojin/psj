@@ -182,6 +182,13 @@
       "level": "Silver 4",
       "tags": ["deque"],
       "solution": [{ "filename": "a.cpp", "language": "c++17" }]
+    },
+    {
+      "id": "1021",
+      "title": "회전하는 큐",
+      "level": "Silver 3",
+      "tags": ["deque"],
+      "solution": [{ "filename": "a.cpp", "language": "c++17" }]
     }
   ]
 }
