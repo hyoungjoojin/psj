@@ -140,6 +140,20 @@
       "tags": ["stack", "monotonic stack"],
       "problem": "Given an array $A_{1:n}$, find the next greater element for each element $A_i$.",
       "solution": [{ "filename": "a.cpp", "language": "c++17" }]
+    },
+    {
+      "id": "6198",
+      "title": "옥상 정원 꾸미기",
+      "level": "Gold 5",
+      "tags": ["stack", "monotonic stack"],
+      "problem": "Given an array $A_{1:n}$, find the number of elements smaller than $A_i$ within $[i + 1, n]$ for each element $A_i$.",
+      "solution": [
+        {
+          "filename": "a.cpp",
+          "language": "c++17",
+          "algorithm": "Let the number of elements smaller than $A_i$ within $[i + 1, n]$ be $f$. Use a monotonically decreasing stack starting from the end, then $f(A_i)$ is the sum of $f(A_k)$ where $k$ is the popped (elements smaller than $A_i$) element."
+        }
+      ]
     }
   ]
 }
