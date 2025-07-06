@@ -175,6 +175,13 @@
       "level": "Silver 4",
       "tags": ["queue"],
       "solution": [{ "filename": "a.cpp", "language": "c++17" }]
+    },
+    {
+      "id": "10866",
+      "title": "덱",
+      "level": "Silver 4",
+      "tags": ["deque"],
+      "solution": [{ "filename": "a.cpp", "language": "c++17" }]
     }
   ]
 }
