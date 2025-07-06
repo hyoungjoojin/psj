@@ -154,6 +154,13 @@
           "algorithm": "Let the number of elements smaller than $A_i$ within $[i + 1, n]$ be $f$. Use a monotonically decreasing stack starting from the end, then $f(A_i)$ is the sum of $f(A_k)$ where $k$ is the popped (elements smaller than $A_i$) element."
         }
       ]
+    },
+    {
+      "id": "18258",
+      "title": "큐 2",
+      "level": "Silver 4",
+      "tags": ["queue"],
+      "solution": [{ "filename": "a.cpp", "language": "c++17" }]
     }
   ]
 }
