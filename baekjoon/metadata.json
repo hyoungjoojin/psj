@@ -217,6 +217,13 @@
           "algorithm": "Push all the elements of the array inside a deque and keep track of whether or not the array is reversed. The $D$ operation will pop from the front or back of the deque depending on if the array is reversed or not."
         }
       ]
+    },
+    {
+      "id": "4949",
+      "title": "균형잡힌 세상",
+      "level": "Silver 4",
+      "tags": ["stack"],
+      "solution": [{ "filename": "a.cpp", "language": "c++17" }]
     }
   ]
 }
