@@ -189,6 +189,20 @@
       "level": "Silver 3",
       "tags": ["deque"],
       "solution": [{ "filename": "a.cpp", "language": "c++17" }]
+    },
+    {
+      "id": "3015",
+      "title": "오아시스 재결합",
+      "level": "Platinum 5",
+      "tags": ["stack", "monotonic stack"],
+      "problem": "Given an array $A_{1:n}$, find the number of pairs $(i, j)$ where no element in $A$ between $A_i$ and $A_j$ is greater than $A_i$ or $A_j$.",
+      "solution": [
+        {
+          "filename": "a.cpp",
+          "language": "c++17",
+          "algorithm": "We use a monotonically decreasing stack and count the number of pops for each element inserted, since the popped elements indicate elements reachable from the current element. Duplicate elements have to be considered, therefore the stack keeps track of the number of duplicates for each element."
+        }
+      ]
     }
   ]
 }
