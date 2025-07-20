@@ -203,6 +203,20 @@
           "algorithm": "We use a monotonically decreasing stack and count the number of pops for each element inserted, since the popped elements indicate elements reachable from the current element. Duplicate elements have to be considered, therefore the stack keeps track of the number of duplicates for each element."
         }
       ]
+    },
+    {
+      "id": "5430",
+      "title": "AC",
+      "level": "Gold 5",
+      "tags": ["parsing", "deque"],
+      "problem": "Given an array $A_{1:n}$ and a sequence of operations that either reverses the array or removes the first element of the array, find the resulting array after applying the sequence of operations to the array.",
+      "solution": [
+        {
+          "filename": "a.cpp",
+          "language": "c++17",
+          "algorithm": "Push all the elements of the array inside a deque and keep track of whether or not the array is reversed. The $D$ operation will pop from the front or back of the deque depending on if the array is reversed or not."
+        }
+      ]
     }
   ]
 }
