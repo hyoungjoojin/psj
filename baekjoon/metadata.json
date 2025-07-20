@@ -231,6 +231,13 @@
       "level": "Gold 5",
       "tags": ["bfs"],
       "solution": [{ "filename": "a.cpp", "language": "c++17" }]
+    },
+    {
+      "id": "2178",
+      "title": "미로 탐색",
+      "level": "Silver 1",
+      "tags": ["bfs"],
+      "solution": [{ "filename": "a.cpp", "language": "c++17" }]
     }
   ]
 }
